@@ -1,8 +1,6 @@
 if __name__ == "__main__":
-
-
     def fun1(a):
-    x = a * 3
+        x = a * 3
 
 
         def fun2(b):
